@@ -55,7 +55,7 @@ TL;DR: Como el arroz con leche. Para qué decir más.
    
 Al final, puede quedar algo así:
 
-[Un barquito de púdin nazarí](https://live.staticflickr.com/65535/33917907988_bb35d40629_k_d.jpg)
+![Un barquito de púdin nazarí](https://live.staticflickr.com/65535/33917907988_bb35d40629_k_d.jpg)
 
 
 
